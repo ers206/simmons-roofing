@@ -30,3 +30,10 @@ showcase the skill of their employees.
 Made with ❤️ by Eric Schweitzer 
 
 &copy; Schweitzer Enterprises
+
+simmons.al32@yahoo.com 
+<!-- business email below, images and video on facebook -->
+simmonsroofingwi@gmail 
+https://www.facebook.com/people/Simmons-Roofing/100063911383949/
+
+<!-- facebook and email icons are rom iconfinder.com -->
