@@ -1,0 +1,29 @@
+header {
+    
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background-color: #27a8cf; */
+
+}
+
+h1 {
+    display: flex;
+    color: rgb(4, 14, 7);
+    justify-content: center;
+    font-size: 50px;
+    margin: 15px;
+    }
+
+/* make sure this works  */
+@media screen and (max-width: 746px) {
+    .smaller-projects {
+       flex-wrap: wrap;
+    }
+    header {
+        flex-direction: column;
+    }
+    header section {
+        justify-content: space-evenly;
+    } 
+}
