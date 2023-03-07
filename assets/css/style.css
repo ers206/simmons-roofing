@@ -15,6 +15,7 @@ h1 {
     margin: 15px;
     }
 
+    
 /* make sure this works  */
 @media screen and (max-width: 746px) {
     .smaller-projects {
